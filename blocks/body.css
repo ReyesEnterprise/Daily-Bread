@@ -7,6 +7,6 @@ body {
   background-image: url("../images/beautiful-nature-location-view.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-size: 100% 200%;
+  padding: 300px 0 0;
 }
