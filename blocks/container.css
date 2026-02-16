@@ -1,0 +1,48 @@
+.main__Container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  margin: 200px 0 0;
+}
+
+.main__title {
+  font-size: 80px;
+}
+
+.sec__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 650px;
+}
+
+.sec__container-button {
+  font-size: 20px;
+  padding: 10px;
+  border: solid;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  background-color: black;
+}
+
+.sec__container-button:hover {
+  background-color: white;
+  color: black;
+}
+
+.sec__container__chapter {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: fantasy;
+}
+
+.sec__container__text {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: fantasy;
+}
