@@ -40,7 +40,7 @@ It represents my first hands-on experience integrating an external API into a li
 🌍 Live Demo
 
 👉 GitHub Pages:
-https://reyesenterprise.github.io/Hobbies2/idex.html
+https://reyesenterprise.github.io/Daily-Bread/
 
 🙏 Final Thoughts
 
