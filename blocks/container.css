@@ -10,6 +10,7 @@
   border: solid black;
   background-color: white;
   padding: 20px;
+  box-shadow: 9px 12px 10px;
 }
 
 .main__title {
@@ -36,8 +37,7 @@
 }
 
 .sec__container-button:hover {
-  background-color: white;
-  color: black;
+  box-shadow: 4px 4px 5px black;
 }
 
 .sec__container__chapter {
