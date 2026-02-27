@@ -54,7 +54,7 @@
 
 @media (max-width: 600px) {
   .main__Container {
-    max-width: 400px;
+    max-width: 350px;
     padding: 10px;
   }
 
